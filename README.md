@@ -1,4 +1,4 @@
-# 📚 City Public Library — FastAPI Backend
+# 📚 Library Book System — FastAPI Backend
 
 A complete Library Book Management System built with **FastAPI**, 
 featuring 20 API endpoints covering CRUD operations, multi-step 
